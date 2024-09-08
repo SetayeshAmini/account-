@@ -1,0 +1,59 @@
+* {
+    box-sizing:border-box;
+    font-family:'Poppins' , sans-serif;
+    padding-left:10px;
+    padding-top:15px;   
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+.sidebar {
+    background-color: #f7f7f7;
+    padding: 20px;
+    height: 100vh;
+}
+
+.person-box {
+    background-color: #e7eff6;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.person-name {
+    font-weight: bold;
+    font-size: 16px;
+    background-color:#e7eff6; 
+}
+
+.person-title {
+    font-size: 14px;
+    color: #888;
+}
+
+.main-content {
+    padding: 20px;
+}
+
+.profile-header {
+    display: flex;
+    align-items: center;
+}
+
+.about-section,
+.timeline-section {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.timeline-post {
+    background-color: #fff;
+    padding: 15px;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+}
+.profile {
+    padding:10px 15px; 
+}
